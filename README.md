@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kaushik
 - 👀 I’m interested in creating webpages
-- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Ecommerce websites
 - 📫 How to reach me @dkr191100@gmail.com
 
